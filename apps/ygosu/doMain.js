@@ -11,7 +11,7 @@ var apps = {
     cl : console.log
     ,gTARGET_DOMAIN : "https://www.ygosu.com"
     ,gTARGET_PATH : "/community/real_article/?page="
-    ,gPAGE_RANGE : {start : 2, end : 2}
+    ,gPAGE_RANGE : {start : 3, end : 3}
     ,dateObj : new Date()
     ,rtPath : 'C:/Users/sk/Documents/GitHub/chogle_machine_crawler'
 
