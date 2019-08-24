@@ -1,11 +1,22 @@
-### WHEN DID START : 201906 FIRST ~
-AUTHOR : SKPS
-FOR WHAT : TO BECOME CONTINUESABLE DEVELOPER
-DISTRICT : KOREA
-GOAL : GLOBAL PERFORMER
-CHOGLE MACHINE, THE LAZY CRAWLLER
+## When did start : 201909  ~
 
-This is first step of amazing chogle project
+#### Author : benc, The republic of korea
+
+> This is first step of amazing chogle project
+
+```
+- Date : 201906-Start developing engine that scrap Y*** Site 
+- Date : 201909-Repair Sources
+
+
+
+
+
+
+
+
+
+
 
 
 
